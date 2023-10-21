@@ -4,11 +4,11 @@ This project aims to review existing code with the view to refactor the site to 
 
 Web accessibility is becoming increasingly important consideration for business owners and application developers. Web accessibility ensures that people with disability can access a websiteusing assistive technologies such as video captions, screen readers, and braille keyboards.
 
-The aim is to review the codebase to ensure long-term sustanability. This includes:
+The aim is to review the codebase to ensure long-term sustanability and ensure the site is optimized for search engines. This includes:
 
 -   making sure all links are functioning correctly.
 -   refactor the CSS file to make it more efficient by consolidating CSS Selectors and properties.
--   Organizing the codes to follow semantic structure of the HTML elements.
+-   organizing the codes to follow semantic structure of the HTML elements.
 -   including comments before each element or section of the page.
 
 ## Features
