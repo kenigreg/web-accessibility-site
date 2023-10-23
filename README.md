@@ -23,13 +23,11 @@ The project ensures that the website follows accessibility standards, which incl
 
 The following mock-up shows what the accessible site looks like after refactoring:
 
-```md
 ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](Assets/01-html-css-git-challenge-demo.png)
-```
 
 ## Deployment
 
-The application is deployed live at the following webpage [kenigreg.github.io/web-accessibility-site](kenigreg.github.io/web-accessibility-site).
+The application is deployed live at the following webpage - [kenigreg.github.io/web-accessibility-site](kenigreg.github.io/web-accessibility-site).
 
 ## Licence
 
