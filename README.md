@@ -19,17 +19,17 @@ The project ensures that the website follows accessibility standards, which incl
 -   CSS selectors and properties are consolidated to follow semantic structure.
 -   CSS files are properly commented.
 
-## Mockups
+## Mock-Up
 
-The following mockups shows what the accessible site looks like after refactoring:
+The following mock-up shows what the accessible site looks like after refactoring:
 
 ```md
-![alt text](assets/images/screenshot.png)
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](Assets/01-html-css-git-challenge-demo.png)
 ```
 
 ## Deployment
 
-The application is deployed live at the following [Website](https://duckduckgo.com).
+The application is deployed live at the following webpage [kenigreg.github.io/web-accessibility-site](kenigreg.github.io/web-accessibility-site).
 
 ## Licence
 
