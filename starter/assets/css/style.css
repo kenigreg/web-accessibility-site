@@ -1,13 +1,16 @@
+/*This sets the box model for the web page*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* This sets the background color to the body section */
 body {
     background-color: #d9dcd6;
 }
 
+/* This sets the styling for the header */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,15 +18,18 @@ header {
     color: #ffffff;
 }
 
+/* This sets the styling for the h1 tag in the header */
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* This sets the color styling for the seo wording within the span tag */
 header h1 .seo {
     color: #d9dcd6;
 }
 
+/* This sets the styling for the nav elements of the header */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,24 +38,29 @@ header nav {
     font-size: 20px; 
 }
 
+/* This sets the styling for the unordered list to none */
 header nav ul {
     list-style-type: none;
 }
 
+/* This sets the styling for the listed items on the nav bar */
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/* This sets the styling for the anchor tags on the nav bar */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* This sets the font size for the paragraphs within the content section */
 p {
     font-size: 16px;
 }
 
+/* This sets the styling for the hero */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,22 +70,26 @@ p {
     background-position: center;
 }
 
+/* This sets the positioning of the 1st and 3rd images within the content class */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* This sets the positioning of the 2nd image within the content class */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/* This sets the styling (width, left margin and display) for the elements within the content class */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* This sets the styling for the elements within the benefits class */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -86,54 +101,64 @@ p {
     background-color: #2589bd;
 }
 
+/* This sets the font color and bottom margin for elements within the 1st section tag of the benefits class */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* This sets the font color and bottom margin for elements within the 2nd section tag of the benefits class */
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* This sets the font color and bottom margin for elements within the 3rd section tag of the benefits class */
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* This sets the text align and bottom margin for elements within the 1st h3 tag of the benefits class */
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* This sets the text align and bottom margin for elements within the 2nd h3 tag of the benefits class */
 .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* This sets the text align and bottom margin for elements within the 3rd h3 tag of the benefits class */
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* This sets the styling for the 1st image tag of the benefits class */
 .benefit-lead img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* This sets the styling for the 2nd image tag of the benefits class */
 .benefit-brand img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* This sets the styling for the 3rd image tag of the benefits class */
 .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* This sets the styling for the elements within the 1st section tag of the content class */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -143,6 +168,7 @@ p {
     color: #ffffff;
 }
 
+/* This sets the styling for the elements within the 2nd section tag of the content class */
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -152,6 +178,7 @@ p {
     color: #ffffff;
 }
 
+/* This sets the styling for the elements within the 3rd section tag of the content class */
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -161,33 +188,40 @@ p {
     color: #ffffff;
 }
 
+/* This sets the height of the 1st image tag of the content class */
 .search-engine-optimization img {
     max-height: 200px;
 }
 
+/* This sets the height of the 2nd image tag of the content class */
 .online-reputation-management img {
     max-height: 200px;
 }
 
+/* This sets the height of the 3rd image tag of the content class */
 .social-media-marketing img {
     max-height: 200px;
 }
 
+/* This sets the font size and bottom margin of the 1st h2 tag of the content class */
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* This sets the font size and bottom margin of the 2nd h2 tag of the content class */
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* This sets the font size and bottom margin of the 3rd h2 tag of the content class */
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* This sets the styling for the footer elements */
 footer {
     padding: 30px;
     clear: both;
@@ -195,6 +229,7 @@ footer {
     text-align: center;
 }
 
+/* This sets the font size for the h2 element within the footer */
 footer h2 {
     font-size: 20px;
 }
