@@ -27,7 +27,7 @@ The following mock-up shows what the accessible site looks like after refactorin
 
 ## Deployment
 
-The application is deployed live at the following webpage - [kenigreg.github.io/web-accessibility-site](kenigreg.github.io/web-accessibility-site).
+The application is deployed live at the following webpage - [https://kenigreg.github.io/web-accessibility-site/](https://kenigreg.github.io/web-accessibility-site/).
 
 ## Licence
 
